@@ -1,1 +1,2 @@
 Feature 2 needs to be updated in application.
+Today is the last date to submit project.
