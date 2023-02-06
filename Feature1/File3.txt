@@ -1,2 +1,3 @@
 Feature 2 needs to be updated in application.
 Today is the last date to submit project.
+Final changes are done, project is good to be deployed to prod environment.
